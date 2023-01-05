@@ -1,0 +1,11 @@
+/* [alt="html-css-javascript"]{
+    border: 2px solid red;
+} */
+
+.green-link{
+color: red;
+background-color: skyblue;
+text-decoration: none;
+font-weight: 600;
+font-size: 22px;
+}
